@@ -1,0 +1,6 @@
+CREATE TABLE salesman (
+    salesman_id INT,
+    salesman_name VARCHAR(50),
+    salesman_city VARCHAR(50),
+    commission INT
+);

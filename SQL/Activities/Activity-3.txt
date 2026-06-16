@@ -1,0 +1,6 @@
+select *from salesman where salesman_city='Paris';
+
+SELECT salesman_id, commission 
+FROM salesman 
+
+WHERE salesman_name = 'Paul Adam';
